@@ -26,3 +26,8 @@
 /* vantagens */
 @import url(./seguros/vantagens.css);
 @import url(./seguros/perguntas.css);
+
+/* contato */
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
+@import url(./utilidades/formulario.css);
